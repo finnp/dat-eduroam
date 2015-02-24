@@ -1,0 +1,24 @@
+{
+  "name": "dat-eduroam",
+  "version": "1.0.0",
+  "description": "eduroam wifi access points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/dat-eduroam.git"
+  },
+  "keywords": [
+    "eduroam",
+    "wifi",
+    "wlan"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/dat-eduroam/issues"
+  },
+  "homepage": "https://github.com/finnp/dat-eduroam"
+}
